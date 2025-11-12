@@ -293,7 +293,7 @@ export const db = getFirestore(app)
 
 1. **Sign up for MongoDB Atlas** (free): https://www.mongodb.com/cloud/atlas
 2. **Create a cluster** (free tier M0)
-3. **Get connection string**: `mongodb+srv://user:pass@cluster.mongodb.net/finlens`
+3. **Get connection string**:
 4. **Install dependencies**:
    ```bash
    cd backend
