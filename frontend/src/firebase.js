@@ -7,7 +7,7 @@ import { getFirestore } from 'firebase/firestore'
 // Get this from: Firebase Console > Project Settings > General > Your apps > SDK setup and configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB8T4Xmcx_16jWOakWXzHRuEgdQ4hE1HIQ",
+  apiKey: "Your Key",
   authDomain: "finlens-e828f.firebaseapp.com",
   projectId: "finlens-e828f",
   storageBucket: "finlens-e828f.firebasestorage.app",
